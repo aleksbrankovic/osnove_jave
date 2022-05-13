@@ -1,0 +1,6 @@
+Git zadatak
+Preimenovati fajl Git_Zadatak1.java u Git_Zadatak1_updated. Napomena: To radimo u intelij preko refactor
+Dodajte tekst zadataka u tekstovi_zadataka.txt
+Stage-ujte sve promene
+Commitujte porukom “Update file name”
+Push-ujte na github
